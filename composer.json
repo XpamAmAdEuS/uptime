@@ -1,0 +1,19 @@
+{
+    "name": "xpamamadeus/uptime",
+    "description": "Linux uptime",
+    "keywords": ["Uptime"],
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "XpamAmAdEuS"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "MitUptime\\": "src/MitUptime"
+        }
+    }
+
+}
